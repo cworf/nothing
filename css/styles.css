@@ -60,3 +60,8 @@ img {
 nav {
   margin-top: 500px;
 }
+h1.top-bad-info {
+    text-align: center;
+    color: blue;
+    text-shadow: 0px 9px 3px #1b61d6, 0px 49px 10px #285da7, 0px 89px 13px #2897a7, 0px 129px 17px #2eabca, 0px 169px 20px #28a745;
+}
